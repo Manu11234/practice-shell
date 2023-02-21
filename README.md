@@ -1,6 +1,6 @@
 # practice-shell
 Topics
-...text
+
 
 1. Print
 2. Comments
