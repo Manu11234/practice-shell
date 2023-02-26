@@ -8,3 +8,6 @@ echo "Hi Hello world ${DATE}"
 ADD=$((5+3))
 echo "addition of 3+5= ${ADD}"
 
+#Accessing variables from shell
+echo x= $x
+
