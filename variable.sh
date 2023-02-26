@@ -5,6 +5,6 @@ DATE=$(date)
 echo "Hi Hello world ${DATE}"
 
 #Arithmatic substitution
-Add=$((5+3))
+ADD=$((5+3))
 echo "addition of 3+5= ${ADD}"
 
