@@ -7,7 +7,7 @@ xyz (){
   echo third argument - $3
   echo all arguments - $*
   echo number of arguments - $#
-  echo value of a = $a
+  echo value of a =$a
   b=55
 }
 ##main program
