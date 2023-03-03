@@ -6,4 +6,6 @@ if [ "${number}" -eq 5 ]; then
 fi
 if [ "${string}" == abc ]; then
   echo string is abc
+else
+  echo string is noat abc
 fi
